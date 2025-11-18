@@ -51,7 +51,7 @@
 1. 克隆或下载本仓库代码：
 
 ```bash
-git clone https://github.com/<your-name>/ApkMeta.git
+git clone https://github.com/c0urag1/ApkMeta
 cd ApkMeta
 ```
 
@@ -173,3 +173,4 @@ self.root.state("zoomed")
 - 可以安装 `androguard`
 
 理论上 Windows / macOS / 大多数 Linux 桌面发行版均可运行。
+
